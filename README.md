@@ -33,3 +33,8 @@ yarn add -D typescript eslint jest
 ```
 
 - volta로 node, yarn 고정
+
+- tsc: 
+```
+yarn tsc --init
+```
